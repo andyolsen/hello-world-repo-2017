@@ -1,0 +1,5 @@
+SAY:  I'll bear that in mind.
+MEAN: I've forgotten it already.
+
+SAY: Yeeeeees.
+MEAN: No.
